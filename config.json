@@ -10,6 +10,20 @@
         "loginId": "1758823",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "cv.er"
+        "cookiedomain": "cv.er",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "wer.cv.er"
+            }
+        }
     }
 }
